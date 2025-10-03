@@ -4,7 +4,7 @@ This project demonstrates a **multi-agent AI setup** that integrates large langu
 
 ---
 
-## 📑 Abstract  
+##  Abstract  
 
 This project presents the development of a multi-agent AI framework that combines **LLMs with external APIs** to provide reliable and structured insights. By integrating:  
 
@@ -16,7 +16,7 @@ This project presents the development of a multi-agent AI framework that combine
 
 ---
 
-## 📖 Introduction  
+## Introduction  
 
 The rapid progress of LLMs has enabled the creation of AI agents that interact with **external data sources in real time**. Instead of relying solely on static model knowledge, these systems can query live APIs to retrieve updated financial metrics and market developments.  
 
@@ -30,7 +30,7 @@ This design illustrates the potential of collaborative AI agents in domains wher
 
 ---
 
-## ⚙️ Methodology  
+##  Methodology  
 
 ### System Architecture  
 
@@ -48,10 +48,3 @@ The architecture consists of three layers:
 - **PHI Framework**: Python framework for agent orchestration  
 
 ---
-
-## 💻 Installation  
-
-1. **Clone the repository**  
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
