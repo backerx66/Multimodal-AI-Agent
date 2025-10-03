@@ -37,21 +37,6 @@ The solution is composed of three key agents:
 
 ---
 
-## Implementation  
-The agents are built in Python with the PHI framework. Each agent is initialized with specific instructions and the right tools.  
-> The full implementation can be found in the `code/` folder.  
-
----
-
-## Results  
-When tested with queries like *“Tesla stock update”*, the agent produced outputs combining:  
-- Tables of stock price data.  
-- Bullet-point news summaries.  
-- Source-backed links.  
-
-This demonstrates its ability to merge multiple data types into a single, structured response.  
-
----
 
 ## Discussion  
 **Strengths**  
