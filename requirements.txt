@@ -1,0 +1,6 @@
+phidata
+groq
+yfinance
+duckduckgo-search
+python-dotenv
+packaging
