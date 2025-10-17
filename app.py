@@ -83,8 +83,8 @@ def main():
     """
     Main function to run the Financial Agent analysis
     """
-    print("🚀 Financial Agent Analysis Starting...")
-    print("📊 Analyzing Tesla (TSLA) with multi-agent system")
+    print(" Financial Agent Analysis Starting...")
+    print(" Analyzing Tesla (TSLA) with multi-agent system")
     print("-" * 60)
     
     try:
@@ -101,11 +101,12 @@ def main():
         )
         
     except Exception as e:
-        print(f"❌ Error during analysis: {str(e)}")
-        print("💡 Please check your API key and internet connection.")
+        print(f" Error during analysis: {str(e)}")
+        print(" Please check your API key and internet connection.")
         
     print("\n" + "-" * 60)
-    print("✅ Analysis Complete!")
+    print(" Analysis Complete!")
 
 if __name__ == "__main__":
+
     main()
